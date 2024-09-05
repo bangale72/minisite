@@ -1,0 +1,46 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.nav-item {
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+  font-size: 22px;
+}
+
+.section {
+  padding: 5px;
+  padding-top: 10px;
+  text-align: center;
+}
+
+.btn {
+  color: white;
+  text-shadow: 12px;
+  border-radius: 12px;
+}
+
+.btn:hover {
+  color: blanchedalmond;
+  border-radius: 12px;
+}
+
+.h1 {
+  font-size: 42px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+  font-style: italic;
+}
+
+.nama {
+  font-family: 'handwriting';
+  font-size: 20px;
+}
+
+.footer {
+  font-family: 'handwriting';
+  text-align: center;
+  margin-top: 12rem;
+  color: white;
+  background-color: rgb(50, 168, 86);
+}
